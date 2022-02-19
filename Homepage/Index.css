@@ -2,12 +2,9 @@ body{
     background-color: aquamarine;
 }
 
-h1{
-    background-color:blue;
-}
-
 h2{
     background-color: red;
+    text-align: center;
 }
 
 a{
@@ -15,4 +12,16 @@ a{
     color: rgb(0, 92, 92);
     background-color: rgb(148, 211, 240);
     padding: 10px;
+}
+
+.link{
+    margin-top: 50px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
