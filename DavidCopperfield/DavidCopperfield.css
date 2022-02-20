@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+}
+
+h2{
+    background-color: orange;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 92, 92);
+    background-color: rgb(148, 211, 240);
+    padding: 10px;
+}
+
+.link{
+    margin-top: 50px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
